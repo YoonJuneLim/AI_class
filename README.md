@@ -1,3 +1,8 @@
 # AI_class
-인공지능개론
-문제풀이 및 과제
+
+> 2026.03.20
+> 2학년 1학기 인공지능 개론
+> 과제, 공부
+> 교수님 github https://github.com/MyungKyuYi/AI-class
+
+나는 colab에서 하지 않을것. 오히려 귀찮음
